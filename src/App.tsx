@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Phone, Music, Code2, Terminal, GraduationCap, Briefcase } from 'lucide-react';
+import { Github, Linkedin, Mail, Phone, Code2, Terminal, GraduationCap, Briefcase } from 'lucide-react';
 import { LanguageToggle } from '@/components/LanguageToggle';
 import { useLanguage } from '@/hooks/useLanguage';
 import { translations } from '@/lib/translations';
