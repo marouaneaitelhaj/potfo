@@ -22,8 +22,8 @@ function App() {
             {[
               { icon: Mail, href: 'mailto:aitelhajmarouane00@gmail.com' },
               { icon: Phone, href: 'tel:+212648513413' },
-              { icon: Github, href: 'https://github.com/marouane-ait-elhaj' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/marouaneaitelhaj' }
+              { icon: Github, href: 'https://github.com/marouaneaitelhaj?tab=repositories' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/marouane-ait-elhaj/' }
             ].map(({ icon: Icon, href }) => (
               <a
                 key={href}
